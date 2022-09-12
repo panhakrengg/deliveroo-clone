@@ -5,13 +5,13 @@
 1. Clone this project:
 
   ```bash
-  https://github.com/panhakrengg/deliveroo-clone.git
+  git clone https://github.com/panhakrengg/deliveroo-clone.git
   ```
 
 2. Install dependencies:
 
   ```bash
-  npm install
+  yarn install
   ```
     
 3. Run Enviroment:
@@ -22,7 +22,7 @@
   
 #Sanity:
 
-### Start Enviroment (Optional)
+### Start Sanity Enviroment (Optional)
 
 ```
 sanity start
